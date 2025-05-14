@@ -111,7 +111,7 @@ function App() {
 							children={
 								<>
 									<Lightbulb className='w-5 h-5'></Lightbulb>
-									<p className='text-sm'>Fácil</p>
+									<p className='text-sm'>Fácil recordar</p>
 								</>
 							}
 						></TypeButton>
