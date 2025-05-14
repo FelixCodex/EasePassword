@@ -273,7 +273,7 @@ function CharactInput({
 }) {
 	return (
 		<div className='border border-gray-300 my-2 p-2 px-4 rounded-xl flex items-center justify-around gap-4'>
-			<p className='text-md text-gray-600 select-none'>Caracteres</p>
+			<p className='text-md text-gray-600 select-none'>Carácteres</p>
 
 			<input
 				value={value}
